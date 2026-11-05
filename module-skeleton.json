@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-payroll-journals-nextjs",
+  "capabilityKey": "liberusoftware/module-accounting-payroll-journals",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-accounting-payroll-journals-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/accounting/nextjs/payroll-journals.md",
+  "presentationPlan": "projects/accounting/nextjs/payroll-journals.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
